@@ -1,0 +1,30 @@
+.amin {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+.salam{
+    height: 200px;
+    width: 200px;
+
+background-color: blue;
+}
+.hello{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+.tech{
+    background-color: red;
+    color: white;
+}
+.camp{
+    background-color: green;
+    color: black;
+    letter-spacing: 3px
+}
+.murad{
+    background-color: orange;
+    color: blue;
+}
